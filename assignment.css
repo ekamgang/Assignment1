@@ -1,0 +1,28 @@
+body {
+font: sans-serif;
+}
+a:hover{
+  color: yellow;
+}
+#row1{
+  background-color: red;
+}
+#row2{
+  background-color: orange;
+}
+#row3{
+  background-color: green;
+}
+#row4{
+  background-color: yellow;
+}
+#row5{
+  background-color: blue;
+}
+#row6{
+  background-color: pink;
+}
+span{
+  font-weight: bold;
+  color:red;
+}
